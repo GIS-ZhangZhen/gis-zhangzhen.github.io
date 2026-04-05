@@ -23,7 +23,7 @@ My research centers on how 🌊coastal ecosystems, especially 🌳mangrove fores
 
 📖 Education:
 ======
-- **2019.09-2023.06**:Doctor of Philosophy in Environmental Science, Xiamen University, Hong Kong, China
+- **2019.09-2023.06**:Doctor of Philosophy in Environmental Science, Xiamen University, Fujian, China
 - **2021.11-2022.12**:Visting student, National University of Singapore, Singapore
 - **2016.09-2019.06**:Master of Cartography and Geographic Information Systems, Nanjing Agriculture University, Jiangsu, China
 - **2012.09-2016.06**:Bachelor of Cartography and Geographic Information Systems, Chuzhou University, Anhui, China
