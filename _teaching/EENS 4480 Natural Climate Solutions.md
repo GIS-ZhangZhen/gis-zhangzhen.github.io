@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergradute course"
 permalink: /teaching/EENS-4480-Natural-Climat-Solutions
 venue: "Tulane University"
-date: 2025 Fall
+date: "Fall 2025"
 location: "New Orleans, USA"
 ---
 
