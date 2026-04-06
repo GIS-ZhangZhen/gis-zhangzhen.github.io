@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/Landscape-Ecology-2020-Fall
 venue: "Xiamen University"
-date: "Fall 2020"
+date: 2020-09-01
 location: "Xiamen, China"
 ---
 
