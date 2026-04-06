@@ -12,18 +12,21 @@ I am a coastal ecologist and geographer currently working as a postdoctoral rese
 My research centers on how coastal ecosystems, especially mangrove forests, respond to global change across regional to global scales. Using satellite data, spatial analysis, and ecological modeling, I investigate long-term changes in coastal ecosystem structure, function, and resilience. My broader goal is to uncover general ecological patterns and mechanisms in the land-sea interface through the integration of Earth observation and ecological theory. In my spare time, I enjoy playing the guitar and taking photographs.
 
 ## 🔥 News
+------
 
-<div style="max-height: 220px; overflow-y: auto; padding-right: 12px; border-left: 3px solid #e5e7eb; padding-left: 14px;">
+<div style="max-height: 220px; overflow-y: auto; padding: 12px 16px; border-left: 3px solid #e5e7eb;">
 
-- **2025.12**: I gave a presentation titled *Dynamics in mangrove structure and carbon uptake under global change* at the Institute of Urban Environment, Chinese Academy of Sciences.
+  <ul>
+    <li><strong>2025.12</strong>: I gave a presentation titled <em>Dynamics in mangrove structure and carbon uptake under global change</em> at the Institute of Urban Environment, Chinese Academy of Sciences.</li>
 
-- **2025.12**: Presented my research on global mangrove dynamics at the 2025 AGU Fall Meeting as an invited talk.
+    <li><strong>2025.12</strong>: Presented my research on global mangrove dynamics at the 2025 AGU Fall Meeting as an invited talk.</li>
 
-- **2025.12**: Served as the primary convener of the session *Evaluating Blue Carbon Across the Tropical/Subtropical Seascape* at the 2025 AGU Fall Meeting.
+    <li><strong>2025.12</strong>: Served as the primary convener of the session <em>Evaluating Blue Carbon Across the Tropical/Subtropical Seascape</em> at the 2025 AGU Fall Meeting.</li>
 
-- **2025.10**: Two of my studies were cited on page 124 of the [*Global Tipping Points Report 2025*](https://global-tipping-points.org/) as evidence that mangroves may represent a localized tipping point ecosystem.
+    <li><strong>2025.10</strong>: Two of my studies were cited on page 124 of the <a href="https://global-tipping-points.org/" target="_blank" rel="noopener noreferrer"><em>Global Tipping Points Report 2025</em></a> as evidence that mangroves may represent a localized tipping point ecosystem.</li>
 
-- **2025.06**: My work on mangrove growth and ENSO was published in *Nature Geoscience*.
+    <li><strong>2025.06</strong>: My work on mangrove growth and ENSO was published in <em>Nature Geoscience</em>.</li>
+  </ul>
 
 </div>
 
