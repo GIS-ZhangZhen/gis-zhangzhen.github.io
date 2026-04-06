@@ -2,7 +2,7 @@
 title: "Landscape Ecology"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/Landscape Ecology 2020 Fall
+permalink: /teaching/Landscape-Ecology-2020-Fall
 venue: "Xiamen University"
 date: 2020 Fall
 location: "Xiamen, China"
