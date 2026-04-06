@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+{% raw %}{% comment %}{% endraw %}
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -31,6 +31,104 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+{% raw %}{% endcomment %}{% endraw %}
 
 
+{% raw %}{% comment %}{% endraw %}
+Original automatic publication rendering code is commented out below for backup.
 
+{% raw %}{% include base_path %}{% endraw %}
+
+{% raw %}{% for post in site.publications reversed %}{% endraw %}
+  {% raw %}{% include archive-single.html %}{% endraw %}
+{% raw %}{% endfor %}{% endraw %}
+{% raw %}{% endcomment %}{% endraw %}
+
+<p>
+You can also find my articles on
+<a href="https://scholar.google.com/citations?user=F7-c9i4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">my Google Scholar profile</a>.
+</p>
+
+<h2>Journal Articles</h2>
+
+<ul>
+  <li>
+    <strong>Zhang, Z.</strong>, Friess, D. A., et al. (2025).
+    Unexpected canopy gain in Earth’s mangrove forests linked to natural expansion and regrowth.
+    <em>EarthArXiv</em>.
+    <a href="https://eartharxiv.org/repository/view/10698/" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://eartharxiv.org/repository/view/10698/" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+
+  <li>
+    <strong>Zhang, Z.</strong>, Luo, X., Friess, D. A., Li, Y. (2025).
+    Global mangrove growth variability driven by climatic oscillation-induced sea-level fluctuations.
+    <em>Nature Geoscience</em>.
+    , 18(6), 488-494.
+    <a href="https://www.nature.com/articles/s41561-025-01701-8" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://drive.google.com/file/d/1qkBLfCa5diNq57TxrS1Pv1zbHYtepJVt/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+  </li>
+
+  <li>
+    <strong>Zhang, Z.</strong>, Luo, X., Friess, D. A., Wang S., Li, Y., Li, Y. (2024).
+    Stronger increases but greater variability in global mangrove productivity compared to that of adjacent terrestrial forests.
+    <em>Nature Ecology &amp; Evolution</em>.
+    8 (2), 239-250.
+    <a href="https://www.nature.com/articles/s41559-023-02264-w" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://drive.google.com/file/d/1mSkZrlzrpa4T3Nno-FLyD9SeeU8O7uM0/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+
+  <li>
+    Jiang, Y., <strong>Zhang, Z.</strong> (co-first author), Friess, D. A., Li, Y., Zhang, Z., Xin, R., Li, J., Zhang, Q., Li, Y. (2025).
+    Restoring mangroves lost by aquaculture offers large blue carbon benefits.
+    <em>One Earth</em>.
+    8 (1) 101149.
+    <a href="https://www.cell.com/one-earth/fulltext/S2590-3322(24)00555-4" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://drive.google.com/file/d/1NMSvhCUki0G0qa49cQjAJkJp-E4MZ9dn/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+
+  <li>
+    <strong>Zhang, Z.</strong>, Xu, N., Li, Y., Li, Y. (2022).
+    Sub-continental-scale mapping of tidal wetland composition for East Asia: A novel algorithm integrating satellite tide-level and phenological features.
+    <em>Remote Sensing of Environment</em>.
+    269, 112799.
+    <a href="https://www.sciencedirect.com/science/article/pii/S0034425721005198" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://drive.google.com/file/d/11iqv5JHxoSXtIGvo4t8DUBp1M2P20LLK/view" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+
+  <li>
+    Zhang, Q., <strong>Zhang, Z.</strong> (co-first author), Xu, N., Li, Y. (2023).
+    Fully automatic training sample collection for detecting multi-decadal inland/seaward urban sprawl.
+    <em>Remote Sensing of Environment</em>.
+    298, 113801.
+    <a href="https://www.sciencedirect.com/science/article/pii/S0034425723003528" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://drive.google.com/file/d/10sKF4WODkPnNv6TrA12pvl4-WMqbT-UT/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+
+  <li>
+    <strong>Zhang, Z.</strong>, Ahmed, M. R., Zhang, Q., Li, Y., Li, Y. (2023).
+    Monitoring of 35-year mangrove wetland change dynamics and agents in the sundarbans using temporal consistency checking.
+    <em>Remote Sensing</em>.
+    15 (3), 625.
+    <a href="https://www.mdpi.com/2072-4292/15/3/625" target="_blank" rel="noopener noreferrer">DOI (open access)</a>
+  </li>
+
+  <li>
+    <strong>Zhang, Z.</strong>, Li, J., Li, Y., Liu, W., Chen, Y., Zhang, Y., Li, Y. (2021).
+    Spatially discontinuous relationships between salt marsh invasion and mangrove forest fragmentation.
+    <em>Forest Ecology and Management</em>.
+    499 (1), 119611.
+    <a href="https://www.sciencedirect.com/science/article/pii/S0378112721007015" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://drive.google.com/file/d/1hDPvpADFOksqqf4LMt_bpzsUR8KJTGla/view" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+
+  <li>
+    Tao, Y., <strong>Zhang, Z.</strong> (co-first author), Ou, W., Guo, J., Pueppke, S. G. (2020).
+    How does urban form influence PM2. 5 concentrations: Insights from 350 different-sized cities in the rapidly urbanizing Yangtze River Delta region of China, 1998–2015.
+    <em>Cities</em>.
+    98, 102581.
+    <a href="https://www.sciencedirect.com/science/article/pii/S0264275119302902" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://drive.google.com/file/d/1HVWGABujJcjOnmMchD6dLQFDq3nu0xBJ/view" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  </li>
+</ul>
