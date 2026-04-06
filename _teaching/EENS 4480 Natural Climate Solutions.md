@@ -2,7 +2,7 @@
 title: "EENS 4480 Natural Climate Solutions"
 collection: teaching
 type: "Undergradute course"
-permalink: /teaching/EENS 4480 Natural Climate Solutions
+permalink: /teaching/EENS-4480-Natural-Climat-Solutions
 venue: "Tulane University"
 date: 2025 Fall
 location: "New Orleans, USA"
