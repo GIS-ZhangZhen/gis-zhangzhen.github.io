@@ -12,7 +12,6 @@ I am a coastal ecologist and geographer currently working as a postdoctoral rese
 My research centers on how coastal ecosystems, especially mangrove forests, respond to global change across regional to global scales. Using satellite data, spatial analysis, and ecological modeling, I investigate long-term changes in coastal ecosystem structure, function, and resilience. My broader goal is to uncover general ecological patterns and mechanisms in the land-sea interface through the integration of Earth observation and ecological theory. In my spare time, I enjoy playing the guitar and taking photographs.
 
 ## 🔥 News
-------
 
 <div style="max-height: 220px; overflow-y: auto; padding-right: 12px; border-left: 3px solid #e5e7eb; padding-left: 14px;">
 
