@@ -40,7 +40,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
+.page {
+  max-width: 1500px;
+}
 .wide-resources .page,
 .wide-resources .page__inner-wrap,
 .wide-resources .page__content,
