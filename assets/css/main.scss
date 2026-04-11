@@ -49,3 +49,20 @@
 .wide-resources .archive {
   max-width: 1500px;
 }
+
+@media (min-width: 64em) {
+  .wide-home .page {
+    width: 100%;
+    max-width: 1500px;
+  }
+
+  .wide-home .page__inner-wrap {
+    width: 100%;
+    max-width: 1500px;
+  }
+
+  .wide-home .archive {
+    width: 100%;
+    max-width: 1500px;
+  }
+}
