@@ -41,3 +41,9 @@
     "vendor/font-awesome/brands"
 ;
 
+.wide-resources .page,
+.wide-resources .page__inner-wrap,
+.wide-resources .page__content,
+.wide-resources .archive {
+  max-width: 1500px;
+}
