@@ -2,6 +2,7 @@
 permalink: /
 title: "Zhen ZHANG"
 author_profile: true
+classes: wide-home
 redirect_from: 
   - /about/
   - /about.html
