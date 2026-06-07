@@ -1,11 +1,11 @@
 ---
-title: "Landscape Ecology"
+title: "Mangrove Ecology, Blue Carbon, and Restoration"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/Landscape-Ecology-2020-Fall
-venue: "Xiamen University"
-date: 2020-09-01
-location: "Xiamen, China"
+type: "Online course"
+permalink: [Yale Environmental Leadership & Training Initiative](https://elti.yale.edu/events/mangroves-2026)
+venue: "Yale University"
+date: 2026-05-09
+location: "Online"
 ---
 
-I served as a guest lecturer for two sessions of the course Landscape Ecology, teaching recent advances in the application of remote sensing to landscape ecology and global change ecology.
+I served as a lecturer for a class in this course, focusing on *Artificial intelligence and Data Analysis Tools For Monitoring Mangroves*.
