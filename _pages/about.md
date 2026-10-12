@@ -17,6 +17,8 @@ My research centers on how coastal ecosystems, especially mangrove forests, resp
 <div style="max-height: 220px; overflow-y: auto; padding: 12px 16px; border-left: 3px solid #e5e7eb;">
 
   <ul>
+    <li><strong>2026.09</strong>: The <a href="https://www.nature.org/en-us/newsroom/state-of-the-worlds-mangroves-2026/" target="_blank">State of the World's Mangroves 2026 report</a> is now out! I'm proud to have contributed to two chapters.</li>
+    
     <li><strong>2026.06</strong>: Our study on global mangrove dynamics was featured on the cover of <em>Science</em> and received extensive media coverage, including interviews with <a href="https://www.bbc.com/news/articles/cn4pk07npvvo" target="_blank">BBC News</a>, <a href="https://www.msn.com/en-us/news/us/experts-say-global-resurgence-of-mangroves-could-help-fight-louisiana-s-land-loss-crisis/vi-AA24R0r6" target="_blank">the Associated Press</a>, and <a href="https://science.nasa.gov/blogs/science-news/2026/06/04/mangrove-forests-rebound/" target="_blank">NASA</a>. </li>
     
     <li><strong>2026.04</strong>: My work on global mangrove dynamics was accepted in <em>Science</em>.</li>
